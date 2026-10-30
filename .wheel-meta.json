@@ -1,0 +1,22 @@
+{
+  "wheel_id": 537,
+  "structure": "umbrella",
+  "slug": "fencingcaboolture-101",
+  "project": "fencing-contractors-caboolture-signs-you-need-84fdf0f045395d6b1",
+  "parent_t1_ref": "fencingcaboolture-150",
+  "node_role": "feeder",
+  "money_target": "fencingcaboolture.com.au",
+  "primary_kw": "fencing contractors caboolture signs you need",
+  "intended_url": "https://aumedia.neocities.org/fencing-contractors-caboolture-signs-you-need-84fdf0f045395d6b1/",
+  "tier": "T2",
+  "writeback_nonce": "7854898ba25da0c7",
+  "links": [
+    {
+      "target_url": "http://fencing-contractors-caboolture-1704af07564ed041019e1f6c1ec7a145.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Fencing Contractors Caboolture: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
